@@ -1,0 +1,18 @@
+@font-face{
+    font-family:'WorkSans';
+    src: local('WorkSans'),
+        url(/Users/christianmachira/Downloads/faq-accordion-main/assets/fonts/WorkSans-VariableFont_wght.ttf);
+    font-weight:400;
+}
+@font-face{
+    font-family:'WorkSans';
+    src:local('WorkSans'),
+        url(/Users/christianmachira/Downloads/faq-accordion-main/assets/fonts/WorkSans-VariableFont_wght.ttf);
+    font-weight:600;
+}
+@font-face{
+    font-family: 'WorkSans';
+    src:local('WorkSans'),
+        url(/Users/christianmachira/Downloads/faq-accordion-main/assets/fonts/WorkSans-VariableFont_wght.ttf);
+    font-weight:700;
+}
