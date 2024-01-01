@@ -16,3 +16,16 @@
         url(/Users/christianmachira/Downloads/faq-accordion-main/assets/fonts/WorkSans-VariableFont_wght.ttf);
     font-weight:700;
 }
+body{
+    background-color:hsl(275, 100%, 97%);
+    font-family:'WorkSans', sans-serif;
+    min-height:100vh;
+
+}
+.accordion-card{
+    max-width:400px;
+    margin:0 auto;
+    padding:0 20px;
+    border-radius:20px;
+    background-color: white;
+}
