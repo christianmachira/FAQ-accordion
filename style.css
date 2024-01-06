@@ -29,4 +29,5 @@ body{
     padding:0 20px;
     border-radius:20px;
     background-color: white;
+    display: flex;
 }
