@@ -1,7 +1,7 @@
 const accordionBtns = document.querySelectorAll('.accordion-btn')
 
-accordionBtns.forEach(btn => {
-    btn.addEventListener('click', function ()  {
+accordionBtns.forEach(btn => {  //creating a for each function for revealing the FAQ information when the button is clicked
+    btn.addEventListener('click', function ()  {    //adding an event listener function to the plus button
         this.classList.toggle('active')
         const accordionDescription = this.nextElementSibling
         const plusIcon = this.querySelector('.icon-plus')
